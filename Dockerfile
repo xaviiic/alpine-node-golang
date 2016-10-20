@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:6.8
+FROM mhart/alpine-node:6.9
 
 RUN apk add --no-cache ca-certificates
 
